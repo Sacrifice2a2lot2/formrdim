@@ -1,0 +1,2 @@
+# formrdim
+My gitBash assighment
